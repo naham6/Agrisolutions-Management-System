@@ -19,3 +19,6 @@ The project implements core CRUD (Create, Read, Update, Delete) operations on Li
 * **Dynamic Memory Allocation:** Uses `malloc` for creating new nodes.
 * **Pointer Manipulation:** Efficiently traverses and updates list pointers during deletion and insertion.
 * **String Processing:** Utilizes `string.h` for data comparison and management.
+
+## How to run
+Just run the code in codeblocks(preferred) or any other IDEs.
