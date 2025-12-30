@@ -19,9 +19,9 @@ The program follows a modular flow where user inputs directly interact with dyna
 
 * Start: The program initializes empty heads for User, Product, and Farmer lists.
 * Authentication: Users can Sign Up (adds a node to the UserList) or Log In (traverses UserList to find a match).
-* Role Selection: * Admins access the ProductList to add/delete items.
+* Role Selection: Admins access the ProductList to add/delete items.
 Users can view their Profile, book appointments, or enter the Marketplace.
-* Marketplace Interaction: * Farmer Post: Creates a new node in the FarmerProductList.
+* Marketplace Interaction: Creates a new node in the FarmerProductList.
 * Buying: The system searches the list for a ProductCode, verifies the quantity, and updates the node’s data.
   
 ## 📈 Technical Implementation
